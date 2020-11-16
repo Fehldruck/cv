@@ -1,3 +1,4 @@
+/***********************************Tag**********************************/
 body {
   background-color: #EAF6F6;
 }
@@ -9,11 +10,11 @@ hr {
   border-top-style: dotted;
   width: 5%;
 }
-
+/*
 img {
   width: 200px;
   height: auto;
-}
+}*/
 
 h1 {
   color: #66BFBF;
@@ -22,3 +23,15 @@ h1 {
 h3 {
   color: #66BFBF;
 }
+
+/****************************************Class*****************************/
+.profil {
+width: 200px;
+height: auto;
+}
+/*Multiple Use*/
+/*************************************ID**********************************/
+/*#heading {
+  color: #66BFBF;
+}
+/*Single Use*/
